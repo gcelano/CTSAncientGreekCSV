@@ -1,7 +1,7 @@
 # Tokenized CTSized Ancient Greek Texts
 
 This repository contains the tokenized (graphic word) texts of the following two repositories (TSV format derived from the XML one in
-https://github.com/gcelano/CTSAncientGreekXML; only the cts information of the <text> element is kept):
+https://github.com/gcelano/CTSAncientGreekXML; only the cts information of the text element is kept):
 
 https://github.com/PerseusDL/canonical-greekLit
 
