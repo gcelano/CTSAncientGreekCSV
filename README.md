@@ -5,7 +5,7 @@ https://github.com/gcelano/CTSAncientGreekXML; only the cts information of the t
 * https://github.com/PerseusDL/canonical-greekLit
 * https://github.com/OpenGreekAndLatin/First1KGreek
 
-The texts have been automatically generated from the original XML files, which are well-formed and CTS-compliant (some may not). Each
+The texts have been automatically generated from the original XML files which are well-formed and CTS-compliant (some may not). Each
 file contains tab-separated values: 
 * the first column lists the passage (the full cts urn derives from merging this value and the cts urn of the text in the @text-cts attribute)
 * the second column shows the running number id for each word (numeration starts again as the passage changes)
